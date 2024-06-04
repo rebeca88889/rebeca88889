@@ -1,16 +1,17 @@
-## Hi there 👋
+### Boas vindas ao meu perfil
 
-<!--
-**rebeca88889/rebeca88889** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Ingrid Tavares
 
-Here are some ideas to get you started:
+-Estou estudando na .[alura]_(https://www.alura.com.br).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou me desenvolvendo na linguagem JavaScript
+
+-Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### Você pode entrar em contato comigo
+
+00001105638601sp@al.educacao.sp.gov.br
+
+@ingrid__tavares
+
+https://tenor.com/pt-BR/view/luffy-mini-luffy-gear-3rd-3rd-gear-one-piece-gif-7857651974926838774
