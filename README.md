@@ -14,4 +14,4 @@ meu nome é Ingrid Tavares
 
 @ingrid__tavares
 
-![](https://tenor.com/pt-BR/view/luffy-mini-luffy-gear-3rd-3rd-gear-one-piece-gif-7857651974926838774)
+![](https://media.tenor.com/bQv81u4pK_YAAAAM/luffy-mini-luffy.gif)
